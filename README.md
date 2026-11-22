@@ -13,7 +13,6 @@ Compact floating **Dynamic Island** for Yandex Music on Windows (WPF + Windows S
 - **Playback Controls:** Play/pause, next/previous track, and smooth interactive timeline seeking without stuttering.
 - **Per-App Volume Control:** Volume slider and mute button control only the Yandex Music audio session (via `ISimpleAudioVolume`) without changing system volume.
 - **Synced Lyrics:** Automatic lyrics lookup via `lrclib.net` with smooth auto-scroll and click-to-seek on any line.
-- **Session Playlist:** Small bottom arrow opens a smooth drawer listing tracks played in the current session for quick switching.
 - **Themes, Colors & Custom Background:**
   - 4 built-in themes: **Yandex**, **Neon**, **Light**, **Ocean**.
   - Color & preset editor: customize accent, background, and border colors in `#RRGGBB` / `R, G, B` or via a popup **HSV color wheel**, rename presets, or add your own.
@@ -40,7 +39,6 @@ Compact floating **Dynamic Island** for Yandex Music on Windows (WPF + Windows S
 - **Управление воспроизведением:** переключение треков, пауза/воспроизведение, интерактивная перемотка по полосе прогресса без задержек и лагов тайминга.
 - **Отдельная громкость плеера:** ползунок громкости и кнопка Mute управляют только аудиосессией Яндекс Музыки (через `ISimpleAudioVolume`), не затрагивая общую громкость Windows.
 - **Синхронизированный текст песни:** автоматический поиск текста через `lrclib.net`, плавная автопрокрутка и переход к строке по клику.
-- **Плейлист сессии:** небольшая стрелка внизу развёрнутого острова открывает список прозвучавших треков с быстрым переключением.
 - **Темы, цвета и свой фон:**
   - 4 встроенные темы: **Яндекс**, **Неон**, **Светлый**, **Океан**.
   - Редактор цветов и пресетов: настройка акцента, фона и рамки в формате `#RRGGBB` / `R, G, B` или через выпадающий **цветовой круг**, переименование и создание своих пресетов.
